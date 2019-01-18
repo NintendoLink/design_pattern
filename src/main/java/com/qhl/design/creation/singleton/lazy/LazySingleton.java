@@ -10,6 +10,9 @@ package com.qhl.design.creation.singleton.lazy;
 public class LazySingleton {
     private static LazySingleton lazySingleton = null;
 
+    /**
+     * 单利模式必须要有的私有构造函数
+     */
     private LazySingleton(){
 
     }
