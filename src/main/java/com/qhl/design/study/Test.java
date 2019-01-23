@@ -1,4 +1,4 @@
-package com.qhl.design.lambdastudy;
+package com.qhl.design.study;
 
 import java.util.ArrayList;
 
